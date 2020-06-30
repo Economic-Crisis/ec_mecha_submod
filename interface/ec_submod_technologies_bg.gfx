@@ -1,0 +1,71 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_mecha_techtree_bg"
+		texturefile = "gfx/interface/backgrounds/mecha.dds"
+		alwaystransparent = yes
+	}
+	
+
+	spriteType = {
+		name = "GFX_mecha_equipment_medium"
+		texturefile = "gfx/interface/technologies/future/main_combat_walkers.dds"
+	}
+	spriteType = {
+		name = "GFX_main_combat_walkers_tech_medium"
+		texturefile = "gfx/interface/technologies/future/main_combat_walkers.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_II_mecha_equipment_medium"
+		texturefile = "gfx/interface/technologies/future/main_combat_walkers.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_main_combat_walkers_equipment_0_medium"
+		texturefile = "gfx/interface/technologies/future/main_combat_walkers.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_MCW_to_MCW_I_tech_medium"
+		texturefile = "gfx/interface/technologies/future/bespilot_MCW_to_MCW_I_generations.dds"
+	}
+	spriteType = {
+		name = "GFX_I_MCW_generation_tech_medium"
+		texturefile = "gfx/interface/technologies/future/universal_I_MCW_generation.dds"
+	}
+	spriteType = {
+		name = "GFX_MCW_to_MCW_II_tech_medium"
+		texturefile = "gfx/interface/technologies/future/bespilot_MCW_to_MCW_II_generations.dds"
+	}
+	spriteType = {
+		name = "GFX_II_MCW_generation_tech_medium"
+		texturefile = "gfx/interface/technologies/future/universal_II_MCW_generation.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_MCW_I_tech_medium"
+		texturefile = "gfx/interface/technologies/future/MCW_I.dds"
+	}
+	spriteType = {
+		name = "GFX_MCW_II_tech_medium"
+		texturefile = "gfx/interface/technologies/future/MCW_I_1.dds"
+	}
+	spriteType = {
+		name = "GFX_MCW_III_tech_medium"
+		texturefile = "gfx/interface/technologies/future/MCW_I_2.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_I_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/MCW_II.dds"
+	}
+	spriteType = {
+		name = "GFX_II_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/MCW_II_1.dds"
+	}
+	spriteType = {
+		name = "GFX_III_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/MCW_II_2.dds"
+	}
+	
+}

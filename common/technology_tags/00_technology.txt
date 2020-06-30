@@ -183,6 +183,8 @@ technology_categories = {
 	asw_tech
 	naval_minesweeping
 	naval_minelaying
+	
+	cat_mecha
 }
 
 technology_folders = {
@@ -211,4 +213,6 @@ technology_folders = {
 	#engineering_folder
 	space_folder
 	special_weapons_folder
+	
+	mecha_folder
 }

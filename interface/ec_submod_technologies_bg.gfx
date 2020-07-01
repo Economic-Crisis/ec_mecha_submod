@@ -5,6 +5,12 @@ spriteTypes = {
 		alwaystransparent = yes
 	}
 	
+	spriteType = {
+		name = "GFX_mecha_folder_tab"
+		texturefile = "gfx/interface/techtree/mecha_folder_tab.dds"
+		noOfFrames = 2
+	}
+	
 
 	spriteType = {
 		name = "GFX_mecha_equipment_medium"
@@ -68,4 +74,92 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/future/MCW_II_2.dds"
 	}
 	
-}
+	spriteType = {
+		name = "GFX_RUS_main_combat_walkers_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/main_combat_walkers.dds"
+	}
+	spriteType = {
+		name = "GFX_RUS_MCW_I_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/rus_main_combat_walker_I.dds"
+	}
+	spriteType = {
+		name = "GFX_RUS_MCW_II_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/rus_main_combat_walker_I_1.dds"
+	}
+	spriteType = {
+		name = "GFX_RUS_MCW_III_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/rus_main_combat_walker_I_2.dds"
+	}
+	spriteType = {
+		name = "GFX_RUS_I_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/rus_main_combat_walker_II.dds"
+	}
+	spriteType = {
+		name = "GFX_RUS_II_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/rus_main_combat_walker_II_1.dds"
+	}
+	spriteType = {
+		name = "GFX_RUS_III_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/russia/rus_main_combat_walker_II_2.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_UKR_main_combat_walkers_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_main_combat_walkers.dds"
+	}
+	spriteType = {
+		name = "GFX_UKR_MCW_I_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_MCW_I.dds"
+	}
+	spriteType = {
+		name = "GFX_UKR_MCW_II_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_MCW_I_1.dds"
+	}
+	spriteType = {
+		name = "GFX_UKR_MCW_III_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_MCW_I_2.dds"
+	}
+	spriteType = {
+		name = "GFX_UKR_I_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_MCW_II.dds"
+	}
+	spriteType = {
+		name = "GFX_UKR_II_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_MCW_II_1.dds"
+	}
+	spriteType = {
+		name = "GFX_UKR_III_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/ukraine/UKR_MCW_II_2.dds"
+	}
+	
+	
+	spriteType = {
+		name = "GFX_USA_main_combat_walkers_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_main_combat_walkers.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_MCW_I_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_MCW_I.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_MCW_II_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_MCW_I_1.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_MCW_III_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_MCW_I_2.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_I_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_MCW_II.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_II_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_MCW_II_1.dds"
+	}
+	spriteType = {
+		name = "GFX_USA_III_MCW_tech_medium"
+		texturefile = "gfx/interface/technologies/future/usa/USA_MCW_II_2.dds"
+	}
+	
+} 

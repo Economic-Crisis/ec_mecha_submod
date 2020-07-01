@@ -3,9 +3,9 @@ technologies = {
 #Горизонталь
 @y1 = 0
 @y2 = 2
-@y3 = 5
+@y3 = 4
 @y4 = 6
-@y5 = 7
+@y5 = 8
 @y6 = 10
 @y7 = 12
 @y8 = 14
@@ -17,7 +17,7 @@ technologies = {
 @x2 = -2
 @x3 = 0
 @x4 = 2
-@x5 = 4
+@x5 = 3
 @x6 = 6
 @x7 = 8
 @x8 = 10
@@ -51,7 +51,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x1 y = @y5 }
+			position = { x = @x1 y = @y3 }
 		}
 		categories = {
 			artillery
@@ -79,7 +79,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x2 y = @y2 }
+			position = { x = @x3 y = @y1 }
 		}
 		categories = {
 			artillery
@@ -107,7 +107,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x2 y = @y3 }
+			position = { x = @x2 y = @y2 }
 		}
 		categories = {
 			artillery
@@ -135,7 +135,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x5 y = @y3 }
+			position = { x = @x5 y = @y2 }
 		}
 		categories = {
 			artillery
@@ -152,10 +152,10 @@ technologies = {
 		enable_equipments = {
 			MCW_I_equipment_3
 		}
-		# path = {
-			# leads_to_tech = concept_2 
-			# research_cost_coeff = 1
-		# }
+		path = {
+			leads_to_tech = MCW_III_tech 
+			research_cost_coeff = 1
+		}
 		on_research_complete = {
 			# custom_effect_tooltip = UNLOCK_CONCEPT_1
 		}
@@ -163,7 +163,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x8 y = @y3 }
+			position = { x = @x8 y = @y2 }
 		}
 		categories = {
 			artillery
@@ -180,10 +180,10 @@ technologies = {
 		enable_equipments = {
 			
 		}
-		# path = {
-			# leads_to_tech = concept_2 
-			# research_cost_coeff = 1
-		# }
+		path = {
+			leads_to_tech = II_MCW_tech 
+			research_cost_coeff = 1
+		}
 		on_research_complete = {
 			# custom_effect_tooltip = UNLOCK_CONCEPT_1
 		}
@@ -191,7 +191,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x2 y = @y8 }
+			position = { x = @x3 y = @y5 }
 		}
 		categories = {
 			artillery
@@ -219,7 +219,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x2 y = @y6 }
+			position = { x = @x2 y = @y4 }
 		}
 		categories = {
 			artillery
@@ -247,7 +247,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x5 y = @y6 }
+			position = { x = @x5 y = @y4 }
 		}
 		categories = {
 			artillery
@@ -275,7 +275,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x8 y = @y6 }
+			position = { x = @x8 y = @y4 }
 		}
 		categories = {
 			artillery
@@ -292,10 +292,10 @@ technologies = {
 		enable_equipments = {
 			
 		}
-		# path = {
-			# leads_to_tech = concept_2 
-			# research_cost_coeff = 1
-		# }
+		path = {
+			leads_to_tech = MCW_III_tech 
+			research_cost_coeff = 1
+		}
 		on_research_complete = {
 			# custom_effect_tooltip = UNLOCK_CONCEPT_1
 		}
@@ -303,7 +303,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x5 y = @y2 }
+			position = { x = @x7 y = @y1 }
 		}
 		categories = {
 			artillery
@@ -320,10 +320,10 @@ technologies = {
 		enable_equipments = {
 			
 		}
-		# path = {
-			# leads_to_tech = concept_2 
-			# research_cost_coeff = 1
-		# }
+		path = {
+			leads_to_tech = III_MCW_tech 
+			research_cost_coeff = 1
+		}
 		on_research_complete = {
 			# custom_effect_tooltip = UNLOCK_CONCEPT_1
 		}
@@ -331,7 +331,7 @@ technologies = {
 		start_year = 2015
 		folder = {
 			name = mecha_folder
-			position = { x = @x5 y = @y8 }
+			position = { x = @x7 y = @y5 }
 		}
 		categories = {
 			artillery

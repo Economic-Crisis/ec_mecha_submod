@@ -1,0 +1,53 @@
+### EC CONSOLE CODE IN SUBDOM MECHA
+
+d_debug_research_mecha = {
+	ROOT = {
+		add_tech_bonus = {
+			bonus = 999
+			uses = 20
+			category = cat_mecha
+		}
+	}
+}
+
+d_debug_equipment_basic_mecha = {
+	ROOT = {
+		add_equipment_to_stockpile = {
+			type = basic_mecha_equipment_0
+			amount = 100
+		}
+	}
+}
+
+d_debug_equipment_light_mecha = {
+	ROOT = {
+		add_equipment_to_stockpile = {
+			type = light_mecha_equipment_1
+			amount = 100
+		}
+	}
+}
+d_debug_equipment_gen2_light_mecha = {
+	ROOT = {
+		add_equipment_to_stockpile = {
+			type = light_mecha_gen2_equipment_1
+			amount = 100
+		}
+	}
+}
+d_debug_equipment_heavy_mecha = {
+	ROOT = {
+		add_equipment_to_stockpile = {
+			type = heavy_mecha_equipment_1
+			amount = 100
+		}
+	}
+}
+d_debug_equipment_gen2_heavy_mecha = {
+	ROOT = {
+		add_equipment_to_stockpile = {
+			type = heavy_mecha_gen2_equipment_1
+			amount = 100
+		}
+	}
+}

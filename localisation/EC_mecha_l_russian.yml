@@ -3,4 +3,53 @@
  mecha_folder_desc:0 "§GОчень интересная вкладка с ужасной иконкой. Замените её наконец!§!\nФаны шагоходов наконец будут довольны\n§R- Neit§!\n\nКстати, автор арта Jakub Rozanski, у него много интересных работ по вселенной Iron Harvest. Тут кстати, изображён Краков."
  
  
- submod_EC:0 "У нас было 2 пакета травы, 75 скриптов, 5 иконок, 20 пакетиков кокаина и целое множество багов всех сортов и расцветок, депрессанты, а также русский мат, ром, ящик пива, меха и 2 дюжины банок с энергетиками. Не то чтобы это был необходимый запас для скрипта, но если начал скриптить сабмод, становится трудно остановиться. Единственное, что вызывало у меня опасение — это меха. Ничто в мире не бывает более беспомощным, безответственным и порочным, чем меха. Я знал, что рано или поздно мы перейдем и на эту дрянь.\n\n§R- Это что за копипаста Петросяна?§!"
+ submod_EC:0 "У нас было 2 пакета травы, 75 картинок, 5 скриптов, 20 пакетиков кокаина и целое множество багов всех сортов и расцветок, депрессанты, а также русский мат, ром, ящик пива, меха и 2 дюжины банок с энергетиками. Не то чтобы это был необходимый запас для сабмода, но если начал скриптить сабмод, становится трудно остановиться. Единственное, что вызывало у меня опасение — это меха. Ничто в мире не бывает более беспомощным, безответственным и порочным, чем меха. Я знал, что рано или поздно мы перейдем и на эту дрянь.\n\n§R- Это что за копипаста Петросяна?§!"
+ 
+ cat_mecha_bonus:0 "Бонус к исследованиям ОБЧ"
+ 
+ UKR_basic_mecha_equipment_0:0 "Бастион"
+ UKR_basic_mecha_equipment_1:0 "Железный"
+ UKR_basic_mecha_equipment_2:0 "Хазар"
+ UKR_light_mecha_equipment_1:0 "Варта"
+ UKR_heavy_mecha_equipment_1:0 "Степан Бандера"
+ UKR_light_mecha_gen2_equipment_1:0 "Козак"
+ UKR_heavy_mecha_gen2_equipment_1:0 "Булат"
+ 
+ I_MCW_generation_tech:0 "I поколение тяжелых ОБЧ"
+ MCW_to_MCW_I_tech:0 "I поколение легких ОБЧ"
+ MCW_to_MCW_II_tech:0 "II поколение легких ОБЧ"
+ II_MCW_generation_tech:0 "II поколение тяжелых ОБЧ"
+ 
+ basic_mecha_unit:0 "Базовые ОБЧ"
+ 
+ light_mecha_unit:0 "Легкие ОБЧ"
+ 
+ heavy_mecha_unit:0 "Тяжелые ОБЧ"
+ 
+ light_mecha_gen2_unit:0 "Легкие ОБЧ II поколения"
+ 
+ heavy_mecha_gen_2_unit:0 "Тяжелые ОБЧ II поколения"
+ 
+ RUS_basic_mecha_equipment_0:0 "Штурм"
+ RUS_basic_mecha_equipment_1:0 "Кашалот"
+ RUS_basic_mecha_equipment_2:0 "Жук"
+ RUS_light_mecha_equipment_1:0 "Медведь"
+ RUS_heavy_mecha_equipment_1:0 "Путинатор 9000"
+ RUS_light_mecha_gen2_equipment_1:0 "Гусар"
+ RUS_heavy_mecha_gen2_equipment_1:0 "Звон"
+ 
+ USA_basic_mecha_equipment_0:0 "Paladin"
+ USA_basic_mecha_equipment_1:0 "Cougar"
+ USA_basic_mecha_equipment_2:0 "Iroquois"
+ USA_light_mecha_equipment_1:0 "King"
+ USA_heavy_mecha_equipment_1:0 "Stilwell"
+ USA_light_mecha_gen2_equipment_1:0 "Collins"
+ USA_heavy_mecha_gen2_equipment_1:0 "Eisenhower"
+ 
+ basic_mecha_equipment_0:0 "Базовый ОБЧ I"
+ basic_mecha_equipment_1:0 "Базовый ОБЧ II"
+ basic_mecha_equipment_2:0 "Базовый ОБЧ III"
+ light_mecha_equipment_1:0 "Легкий ОБЧ I"
+ heavy_mecha_equipment_1:0 "Тяжелый ОБЧ I"
+ light_mecha_gen2_equipment_1:0 "Легкий ОБЧ II"
+ heavy_mecha_gen2_equipment_1:0 "Тяжелый ОБЧ II"

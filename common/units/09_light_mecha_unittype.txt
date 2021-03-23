@@ -14,7 +14,7 @@ sub_units = {
 		group = armor_battalion
 
 		categories = {
-			category_armor
+			category_mecha
 			category_front_line
 			category_all_armor
 			category_army
@@ -23,7 +23,7 @@ sub_units = {
 		combat_width = 2
 
 		need = {
-			light_mecha_equipment = 10
+			light_mecha_equipment_0 = 10
 			infantry_technical_means_equipment = 10
 		}
 
@@ -86,7 +86,7 @@ sub_units = {
 		group = armor_battalion
 
 		categories = {
-			category_armor
+			category_mecha
 			category_front_line
 			category_all_armor
 			category_army

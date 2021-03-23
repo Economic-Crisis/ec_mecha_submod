@@ -34,7 +34,7 @@ technologies = {
 
 	main_combat_walkers_tech = {
 		enable_equipments = {
-			basic_mecha_equipment
+			basic_mecha_equipment_0
 		}
 		enable_subunits = {
 			basic_mecha_unit
@@ -57,7 +57,7 @@ technologies = {
 			position = { x = @x1 y = @y3 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -85,7 +85,7 @@ technologies = {
 			position = { x = @x3 y = @y1 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -113,7 +113,7 @@ technologies = {
 			position = { x = @x2 y = @y2 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -126,6 +126,9 @@ technologies = {
 	MCW_II_tech = {
 		enable_equipments = {
 			light_mecha_equipment_1
+		}
+		dependencies = {
+			MCW_to_MCW_I_tech = 1
 		}
 		path = {
 			leads_to_tech = MCW_III_tech 
@@ -141,7 +144,7 @@ technologies = {
 			position = { x = @x5 y = @y2 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -153,7 +156,10 @@ technologies = {
 	}
 	MCW_III_tech = {
 		enable_equipments = {
-			light_mecha_equipment_2
+			light_mecha_gen2_equipment_1
+		}
+		dependencies = {
+			MCW_to_MCW_II_tech = 1
 		}
 		path = {
 			leads_to_tech = MCW_III_tech 
@@ -169,7 +175,7 @@ technologies = {
 			position = { x = @x8 y = @y2 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -197,7 +203,7 @@ technologies = {
 			position = { x = @x3 y = @y5 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -225,7 +231,7 @@ technologies = {
 			position = { x = @x2 y = @y4 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -238,6 +244,9 @@ technologies = {
 	II_MCW_tech = {
 		enable_equipments = {
 			heavy_mecha_equipment_1
+		}
+		dependencies = {
+			I_MCW_generation_tech = 1
 		}
 		path = {
 			leads_to_tech = III_MCW_tech 
@@ -253,7 +262,7 @@ technologies = {
 			position = { x = @x5 y = @y4 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -265,7 +274,10 @@ technologies = {
 	}
 	III_MCW_tech = {
 		enable_equipments = {
-			heavy_mecha_equipment_2
+			heavy_mecha_gen2_equipment_1
+		}
+		dependencies = {
+			II_MCW_generation_tech = 1
 		}
 		# path = {
 			# leads_to_tech = concept_2 
@@ -281,7 +293,7 @@ technologies = {
 			position = { x = @x8 y = @y4 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -309,7 +321,7 @@ technologies = {
 			position = { x = @x7 y = @y1 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2
@@ -337,7 +349,7 @@ technologies = {
 			position = { x = @x7 y = @y5 }
 		}
 		categories = {
-			artillery
+			cat_mecha
 		}
 		ai_will_do = {
 			factor = 2

@@ -1,0 +1,157 @@
+equipments = {
+	heavy_mecha_equipment_0 = {
+		active = yes
+		is_archetype = yes
+		is_convertable = yes
+		is_buildable = yes
+		type = armor
+		group_by = archetype
+		
+		interface_category = interface_category_armor
+		
+		upgrades = {
+			tank_reliability_upgrade
+			tank_engine_upgrade
+			tank_armor_upgrade
+			tank_gun_upgrade
+		}
+
+		#Misc Abilities
+		maximum_speed = 13
+		reliability = 0.6
+
+		#Defensive Abilities
+		defense = 44
+		breakthrough = 68
+		hardness = 0.97
+		armor_value = 84
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 50
+		ap_attack = 75
+		air_attack = 20
+
+		#Space taken in convoy
+		lend_lease_cost = 17
+		
+		build_cost_ic = 48
+		fuel_consumption = 22
+		resources = {
+			polymers = 8
+			alloy_steel = 4
+			steel = 7
+		}
+	}
+	
+	heavy_mecha_equipment_1 = {
+		archetype = heavy_mecha_equipment_0
+		parent = heavy_mecha_equipment_0
+		priority = 105
+		visual_level = 0
+		
+		#Misc Abilities
+		maximum_speed = 13
+		reliability = 0.6
+
+		#Defensive Abilities
+		defense = 49
+		breakthrough = 72
+		hardness = 0.97
+		armor_value = 90
+
+		#Offensive Abilities
+		soft_attack = 55
+		hard_attack = 55
+		ap_attack = 80
+		air_attack = 23
+
+		#Space taken in convoy
+		lend_lease_cost = 25
+		
+		build_cost_ic = 53
+		fuel_consumption = 22
+		resources = {
+			polymers = 7
+			alloy_steel = 5
+			steel = 8
+		}
+	}
+	
+	heavy_mecha_gen2_equipment_0 = {
+		active = yes
+		is_archetype = yes
+		is_convertable = yes
+		is_buildable = yes
+		type = armor
+		group_by = archetype
+		
+		interface_category = interface_category_armor
+		
+		upgrades = {
+			tank_reliability_upgrade
+			tank_engine_upgrade
+			tank_armor_upgrade
+			tank_gun_upgrade
+		}
+
+		#Misc Abilities
+		maximum_speed = 13
+		reliability = 0.6
+
+		#Defensive Abilities
+		defense = 44
+		breakthrough = 68
+		hardness = 0.97
+		armor_value = 84
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 50
+		ap_attack = 75
+		air_attack = 20
+
+		#Space taken in convoy
+		lend_lease_cost = 17
+		
+		build_cost_ic = 48
+		fuel_consumption = 22
+		resources = {
+			polymers = 8
+			alloy_steel = 4
+			steel = 7
+		}
+	}
+	heavy_mecha_gen2_equipment_1 = {
+		archetype = heavy_mecha_gen2_equipment_0
+		parent = heavy_mecha_gen2_equipment_0
+		priority = 105
+		visual_level = 0
+		
+		#Misc Abilities
+		maximum_speed = 13
+		reliability = 0.9
+
+		#Defensive Abilities
+		defense = 53
+		breakthrough = 64
+		hardness = 0.97
+		armor_value = 96
+
+		#Offensive Abilities
+		soft_attack = 60
+		hard_attack = 64
+		ap_attack = 80
+		air_attack = 32
+
+		#Space taken in convoy
+		lend_lease_cost = 18
+		
+		build_cost_ic = 59
+		resources = {
+			polymers = 6
+			alloy_steel = 6
+			steel = 8
+		}
+	}	
+}

@@ -1,0 +1,7 @@
+technology_categories = {
+	cat_mecha
+}
+
+technology_folders = {
+	mecha_folder
+}

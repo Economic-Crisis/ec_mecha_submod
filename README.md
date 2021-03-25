@@ -1,6 +1,8 @@
-# EC MECHA SUBMOD
+<h2><p align="center">EC MECHA SUBMOD</p></h2>
 
-Совместимость</b>
+### Совместимостим с основной версией версией мода [0.7.6.3]() </b>
+
+### Скачать -> [Latest Releasle](https://github.com/Economic-Crisis-2013/ec_mecha_submod/releases/release)
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Economic-Crisis-2013)
  [![VK](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=Steam&logoColor=white)](https://vk.com/ec_hoi_mod)
@@ -12,9 +14,9 @@
  ![Version-Main-Mod](https://img.shields.io/badge/Version--Main--Mod-0.7.6-red?style=flat-square)
 
 <h1>Здесь нет смысла и логики, просто много багов.</b>
-Слеплено из ресурсов ЕС и ныне абсолютно не доступны в базовой версии модификации.</b>
+Слеплено из ресурсов ЕС и ныне абсолютно не доступны в базовой версии модификации.</b> <h1>
   
-  | Коды разработчиков   |           Описание         |
+| Коды разработчиков   |           Описание         |
 | ---- | -------------------------- |
 | debug_research_mecha  | бонус 9999 к исследованию мехов/обч |
 | Дальше требуют исследования |
@@ -26,4 +28,4 @@
 
 
 ___
-Сделано командой EC DEV TEAM
+##### Сделано командой EC DEV TEAM(c)

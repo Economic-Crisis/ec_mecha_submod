@@ -2,7 +2,7 @@
 
 ### Совместимостим с основной версией версией мода [0.7.6.3]() </b>
 
-### Скачать -> [Latest Releasle](https://github.com/Economic-Crisis-2013/ec_mecha_submod/releases/release)
+### Скачать -> [Latest Releasle](https://github.com/Economic-Crisis-2013/ec_mecha_submod/releases)
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Economic-Crisis-2013)
  [![VK](https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=Steam&logoColor=white)](https://vk.com/ec_hoi_mod)
